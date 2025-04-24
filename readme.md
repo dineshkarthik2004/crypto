@@ -73,6 +73,14 @@ src/
 - Connection status indicator
 - Last update timestamp
 
+### Getting Started
+- Clone the repository
+- Install dependencies:
+- npm install
+- Start the development server:
+- npm run dev
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
