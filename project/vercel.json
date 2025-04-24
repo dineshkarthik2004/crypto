@@ -1,5 +1,5 @@
 {
   "routes": [
-    { "src": "/favicon.ico", "status": 204 }
+    { "src": "/favicon.ico", "dest": "/favicon.ico", "status": 200 }
   ]
 }
